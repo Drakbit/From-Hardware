@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+
+/* Nav */
+
+.bg-custom {
+    background-color: #410750;
+}
+
+
+/* body */
+
+body {
+    background-color: #201726;
+}
+
+
+/* texto */
+
+p,
+input,
+h1,
+h2,
+h3,
+h4,
+h5,
+small {
+   color: white;
+   text-align: center;
+   font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+.paragrafo {
+    text-indent: 3ch;
+    text-align: justify;
+    font-family: 'Comfortaa', cursive;
+}
+
+.linknav {
+    font-family: 'Comfortaa', cursive;
+    font-size: larger;
+    text-align: center;
+    padding: 2px;
+    color: cornsilk;
+}
+
+.titulo,
+.quemsomos {
+    text-align: center;
+}
+a{
+    color: darkgray;
+}
+a :hover{
+    color: ghostwhite;
+}
+/* footer */
